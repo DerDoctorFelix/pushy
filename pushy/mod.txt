@@ -1,0 +1,15 @@
+{
+    "name" : "Pushy",
+    "description" : "Push to interact",
+    "author" : "Der Felix",
+    "contact" : "not@me.com",
+    "version" : "1.0",
+
+	"persist_scripts" : [
+    {
+        "global" : "pushy",
+        "script_path" : "pushy.lua"
+    }
+
+	]
+}
